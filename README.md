@@ -1,2 +1,2 @@
-# azure-etude
-Azure etude
+# azure-test
+Azure for etude
