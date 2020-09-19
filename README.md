@@ -1,2 +1,2 @@
 # azure-test
-etude for Azure Cloud
+Etude for Azure Cloud
