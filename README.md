@@ -1,2 +1,2 @@
-# azure-test
-Etude for Azure Cloud
+# ptyhon-etude
+Etude for Python
